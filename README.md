@@ -1,5 +1,6 @@
-# ADV360-PRO-ZMK
+# Joe's Advantage360 Layout
 
+This is mostly stock with the addition of a Mac-specific layer in position 1, toggleable with MOD+M. All other layers are above it, so the status light for which layer you're on will continue to work as expected, just +1 color. To download, go to Actions, then to the most recent workflow run, then "firmware" under the Artifacts section. This is still my personal layout though and is subject to change, so fork it if you want to keep my Mac-specific changes.
 
 ## To build Firmware in GitHub Actions
 
